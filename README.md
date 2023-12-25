@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, my name is Andrew (also go by Andre)</h1>
 <h3 align="center">A person who enjoys programming, providing quality assurance and love working with others.</h3>
 
-- 🔭 I’m currently working on [BuddyShooter](https://github.com/andrewkmag/BuddyShooter)
-
-- 🌱 I’m currently learning **how to create games using UE5 and C++**
+- 🔭 I’m currently working on designing a static webpage for Safari Academy.
 
 - 👨‍💻 All of my projects are currently available at [https://andrewkmag.github.io/](https://andrewkmag.github.io/)
 
