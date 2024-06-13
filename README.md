@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, my name is Andrew (also go by Andre)</h1>
 <h3 align="center">A person who enjoys programming, providing quality assurance and love working with others.</h3>
 
-- 🔭 I’m currently working on designing a static webpage for Safari Academy.
-
-- 👨‍💻 All of my projects are currently available at [https://andrewkmag.github.io/](https://andrewkmag.github.io/)
-
 - 📫 How to reach me **andrewkmag@gmail.com**
 
 - ⚡ Fun fact **I have a variety of hobbies I flip-flop between including but not limited to playing basketball 🏀, creating/editing YouTube Videos 🎥, playing video games with friends 🎮, developing software/games 💻 and going for long walks 🚶🏽‍♂️!**
